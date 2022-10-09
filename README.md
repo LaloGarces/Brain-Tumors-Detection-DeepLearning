@@ -6,6 +6,6 @@
 
 #### Important points to mention ####
 
--We're going to use an open data source from Kaggle: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
--ResNet (Residual Neural Network) is an artificial neural network (ANN) that skip connections or shortcuts used to jump over some layers (HighwayNets may also learn the skip weights themselves through an additional weight matrix for their gates). For more info, refer please to: https://en.wikipedia.org/wiki/Residual_neural_network
+- We're going to use an open data source from Kaggle: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+- ResNet (Residual Neural Network) is an artificial neural network (ANN) that skip connections or shortcuts used to jump over some layers (HighwayNets may also learn the skip weights themselves through an additional weight matrix for their gates). For more info, refer please to: https://en.wikipedia.org/wiki/Residual_neural_network
 - 
